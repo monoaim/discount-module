@@ -1,0 +1,32 @@
+[
+    {
+        "item": "T-Shirt",
+        "quantity": 7,
+        "price": 500,
+        "category": "Clothing"
+    },
+    {
+        "item": "Hat",
+        "quantity": 3,
+        "price": 250,
+        "category": "Accessories"
+    },
+    {
+        "item": "Watch",
+        "quantity": 2,
+        "price": 850,
+        "category": "Electronics"
+    },
+    {
+        "item": "Bag",
+        "quantity": 1,
+        "price": 640,
+        "category": "Accessories"
+    },
+    {
+        "item": "Belt",
+        "quantity": 4,
+        "price": 230,
+        "category": "Accessories"
+    }
+]

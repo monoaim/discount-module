@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Coupon",
+        "discount_type": "Fixed",
+        "value": 50
+    },
+    {
+        "type": "OnTop",
+        "discount_type": "DiscountByPoints",
+        "value": 68
+    },
+    {
+        "type": "OnTop",
+        "discount_type": "PercentageByItemCategory",
+        "category": "Clothing",
+        "value": 15
+    },
+    {
+        "type": "Seasonal",
+        "every_x": 300,
+        "discount_y": 40
+    }
+]
